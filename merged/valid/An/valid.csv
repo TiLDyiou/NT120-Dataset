@@ -1,4 +1,4 @@
-﻿Comment,Sentiment,Toxicity,ambiguity_flag
+Comment,Sentiment,Toxicity,ambiguity_flag
 "Cuộc bầu cư người đứng đầu Quốc gia ở Mỹ là công khai và công bằng nhất, chính vì vậy đến khi có kết quả chính thức mới biết được người dân họ bầu cho ai.",0,0,1
 Hoan hô sự quả cảm của các chiến sĩ và sự đồng lòng của các anh em lái xe đường dài và người dân xung quanh.,0,0,1
 Trước cũng thích con Seltos lắm nhưng giờ nhìn cái gầm với nội thất bên trong chán hẳn.,-1,0,0
@@ -351,7 +351,7 @@ Nên giữ nguyên lúc này là tốt nhất vì covid chưa thể yên đượ
 "Điện xoay chiều thôi mà, quá bình thường.Nhưng điều đáng bàn là công suất nguồn điện sẽ dư từ nay cho đến năm 2030, vậy cách tính giá bậc thang có xoay chiều không?Tỷ dụ như hiện nay dùng càng nhiều điện, giá càng cao, có xoay chiều thành càng dùng nhiều điện giá càng giảm?",-1,0,0
 Sao mà tàn nhẫn thế không biết,0,0,1
 Hà Chương phổ nhạc đẹp lắm!,1,0,0
-Phải cho tên ác độc này vào tù để làm gương cho những tên khác.,0,0,1
+Phải cho tên ác độc này vào tù để làm gương cho những tên khác.,0,1,1
 Làm gì thì làm đừng để vỡ trận như nước ngoài,0,0,1
 "Lần đầu tiên khi nghe bài này nó chạm ngay vào tận sâu trái tim mình, giống như cảm xúc vừa vỡ oà, một bài hát giúp mình như được giải toả cảm xúc, buồn phiền cũng được vơi đi và sống tích cực, yêu đời hơn, bài hát ko còn chỉ là lời tâm tình của riêng em Lâm à, nó là lời tâm tình và khích lệ đến rất rất nhiều người, cảm ơn em đã mang đến cho chị bài hát thực sự hay, rất rất yêu mến giọng hát Hoài Lâm, chúc Lâm thật an yên và mạnh khoẻ em nhé",1,0,0
 "May quá có nhà ở vùng thường tín ngoại thành Hn, sáng đi làm tối về 2 chục cây, mặc kệ giá chung cư, vì ko có tiền xD",1,0,0
@@ -427,7 +427,7 @@ tất cả hành động của ta đều có giá.,0,0,1
 "Bautista là 1 cựu đô vật WWE lừng danh, anh có thể hình khá đẹp và gương mặt khá ""ngầu"". Thể hình đẹp trong môn WWE còn phải kể đến như Booker-T, Tripple-H, Randy Orton, Drew McIntyre...",1,0,0
 Đồi bại hết mức. Làm người nhưng không hơn được con vật là mấy.,0,0,1
 "Rồi cũng đâu vào đấy ,giả sử có chuyển nhà máy khỏi Tq nhưng phụ kiện vật liệu vẫn phải nhập của Tq",0,0,1
-"Không chịu đối mới, không sáng tạo sẽ thất bại!",0,0,1
+"Không chịu đối mới, không sáng tạo sẽ thất bại!",0,1,1
 "Vâng 6 QBV, 6 giày vàng. Skill cá nhân của anh tốt nhất thế giới rồi. Messi vĩ đại chỉ đơn giản thế thôi.",1,0,0
 Tiếng hát cao và quá tệ!,-1,0,0
 Bài viết rất công phu. Thanks tác giả,0,0,1
@@ -1615,7 +1615,7 @@ Xin mời :))) to mồm đòi làm cách mạng vậy làm đi :))) lật đổ 
 Giang Thanh Quang Trung cs :)),0,0,1
 CÔ BA VÀNG MÃ :)),0,1,1
 Nguyễn Quốc Huy Kim Ngân đi tạo nghiệp dạo 😂,-1,0,0
-Nhìn cái mặt nó kìa. Cặn bã 🖕🖕,0,0,1
+Nhìn cái mặt nó kìa. Cặn bã 🖕🖕,0,1,1
 tây nó bảo ở VN là an toàn nhất r nên kph lo :))),0,0,1
 "mọi con vật đều bình đẳng, nhưng có một số con bình đăng hơn các con khác ;)",0,0,1
 Lê Thị Trà My tưởng my sói này stream,0,0,1
@@ -2292,7 +2292,7 @@ Cực kì thuyết phục:(,0,0,1
 Bút đỉnh vl :))),1,1,0
 Khi bạn vừa ngủ dậy chưa kịp kéo quần thì phải đi event 😇,0,0,1
 "Treo lưng lững mới hay. Giống vừa xã nghĩa vừa ""giãy chết"" vậy.",1,0,0
-Ngày tồi tệ nhiều quá lấn át hết những ngày vui rồi:((.,0,0,1
+Ngày tồi tệ nhiều quá lấn át hết những ngày vui rồi:((.,0,1,1
 Cô giàu có j kệ cô chứ nữa cô chết đéo người đội tan giàu cở nào cở alibaba chưa mà nói chuyện kinh người rồi 👎,-1,1,0
 Chị đi chừng nào về,0,0,1
 cho em cái giáo án mundô thầy,0,0,1

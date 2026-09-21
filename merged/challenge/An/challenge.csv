@@ -1,4 +1,4 @@
-﻿Comment,Sentiment,Toxicity,ambiguity_flag
+Comment,Sentiment,Toxicity,ambiguity_flag
 Người ăn không hết kẻ lần chẳng ra,0,0,1
 Đời ta ba mươi đời nó. Mua chiếc xe cũng chỉ phục vụ đi lại được tốt hơn mà thôi. Cần gì những thứ linh tinh kia làm gì.,1,0,0
 Thật tuyệt vời!,1,0,0
@@ -69,7 +69,7 @@ Mình vừa vote cho Fadil một phiếu dù i10 cũng là lựa chọn rất t�
 Bale tuy ghi ít bàn nhưng những bàn của bale giá trị hơn 7 ké gấp 10 .,0,0,1
 "Người mất cũng mất rồi, cát bụi về với cát bụi thôi.",0,0,1
 "Chiều Xuân rất đẹp, còn Hồng Nhung tôi không thể nhận ra !",1,0,0
-"Bất tài ,gian lận thương mại đã quá rõ ,đề nghị xử phạt nặng góp phần ổn định thị trường ,bảo vệ doanh nghiệp chân chính và người tiêu dùng.",0,0,1
+"Bất tài ,gian lận thương mại đã quá rõ ,đề nghị xử phạt nặng góp phần ổn định thị trường ,bảo vệ doanh nghiệp chân chính và người tiêu dùng.",0,1,1
 "Cách đây khoảng 50 năm mình cũng như thế này, nhớ quá",0,0,1
 "may là ca nhiễm không ủ bệnh lâu, nếu không thì những người này không cần cách ly 14 ngày, được tự do tiếp xúc trong cộng đồng ...ôi hỏi có toang lần nữa không a? nếu cứ thực hiện xét nghiệm âm tính rồi thì chỉ cần cách ly tại nhà 5 ngày thôi..",0,0,1
 "Không có công sinh thì cũng có công dưỡng, nhằm chứ không nhầm đâu!",0,0,1

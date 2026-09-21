@@ -1,4 +1,4 @@
-﻿Comment,Sentiment,Toxicity,ambiguity_flag
+Comment,Sentiment,Toxicity,ambiguity_flag
 Thật tuyệt vời...!!!,1,0,0
 Coi dịch là giặc. Đã mang tên đó mà xâm nhập VN thì phải đầu hàng hoặc cút xéo. VN luôn tự hào!,-1,2,0
 Angelina Jolie có đôi bàn tay nổi gân guốc quá!,0,0,1
@@ -59,7 +59,7 @@ Nghe bọ biển thì ko dám ăn nhưng nghe cùng họ tôm thì có dịp th�
 "Các bác đọc kỹ đề chưa mà quăng ra nhiều vậy, có 400tr thui, Attrage lăn bánh là đủ, con Soluto thì thiếu. Còn hãy chạy thử để biết, ngồi phán khó lắm...",0,0,1
 Ôi tiền nhiều quá! Chia nhau rung đùi ngồi đếm còn gì sướng hơn :D,0,1,1
 "Em nghĩ bác có thể vay thêm ngân hàng hoặc nhận trả góp mua xe mới luôn. Vì đây là dòng xe cỏ, đi đã không được chuẩn chỉ rồi mà còn là xe cũ nữa thực sự không đáng.Còn vẫn muốn thì nên lấy i10 ạ, dòng 2015 đổ về.",0,0,1
-"Trời ơi! Đọc mà căm phẫn đến trào nước mắt, sao lại có thể loại người ác đức đến vậy!!! Thương các con vô cùng, mang nỗi đau về cả thể xác và tinh thần, càng xót xa cho 2 bé gái bị tên cặn bã kia xâm hại. Thật đúng là thua cả loài thú, không còn từ nào để diễn tả...",-1,0,0
+"Trời ơi! Đọc mà căm phẫn đến trào nước mắt, sao lại có thể loại người ác đức đến vậy!!! Thương các con vô cùng, mang nỗi đau về cả thể xác và tinh thần, càng xót xa cho 2 bé gái bị tên cặn bã kia xâm hại. Thật đúng là thua cả loài thú, không còn từ nào để diễn tả...",-1,1,0
 "Ghét nhất suốt ngày nhận những cuộc gọi mời đi hội thảo, rồi mua bảo hiểm này nọ. Ghét kinh khủng khiếp!!!",-1,0,0
 "Tước quyền nuôi con Vĩnh viễn, cấm không được lại gần trong khoảng cách 50m.để tránh khơi dậy nỗi ám ảnh",0,0,1
 Đây hoàn toàn là lỗi từ phía các công ty tài chính khi không phân biệt được những hồ sơ vay vốn kia là giả.,0,0,1
@@ -325,7 +325,7 @@ Tội con!,0,0,0
 "Theo tôi hiện nay hơi sớm để đầu tư đất, bạn nên chờ vào cuối năm nay.",0,0,1
 Và con tim đã vui trở lại. Phải nói là năng lực Mec vượt trội,0,0,1
 "thứ quan trọng nhất là chuỗi cung ứng và cơ sở hạ tầng, nhìn lại chúng ta mà thấy nản",0,0,1
-"Chị em nhà này là loại cầm thú bất nhân, yêu cầu cơ quan chức năng xử lý thật mạnh tay để làm gương cho những ai có ý định xấu xa giống vậy.",-1,0,0
+"Chị em nhà này là loại cầm thú bất nhân, yêu cầu cơ quan chức năng xử lý thật mạnh tay để làm gương cho những ai có ý định xấu xa giống vậy.",-1,1,0
 "Mỗi lần nhìn mấy em họ côn trùng là nhớ tới truyện "" dế mèn phiêu lưu ký"". Cứ tưởng tượng các ẻm đang nói chuyện giống trong truyện :))",0,0,1
 "Bạn này nói TA như người bản xứ luôn,rất có năng khiếu,đặc biệt bạn ấy lại được gia đình đầu tư cho việc học tại Mỹ, Ngoài sự thông minh vốn có bạn lại thêm chăm chỉ nữa,nên con số 9.0 hẳn rất xứng đáng.",1,0,0
 Nhạc của anh nghe rất nhẹ nhàng. Vào những ngày nghỉ nghe rất thư giãn nha.,0,0,1
@@ -433,7 +433,7 @@ Cái chỗ này mà trót lọt thì lại không biết bao nhiêu gia đình t
 "Hóc môn và Gò Vấp ngày xưa không biết ngập vì nền đất cao, giờ mọi chuyện đã khác xưa...Bà con không nên có thói quen bỏ rác xuống cống nữa nhé.",0,0,1
 Sao họ kg làm giả giấy tờ để đi vay tín dụng đen nhỉ?,0,0,0
 hy vọng những người còn lại thông qua báo chí và các tin tức trên mạng cũng đã biết.nếu ko hậu quả sẽ nặng thêm nữa,-1,0,0
-"Thi gần 20 lần. Nhận được điểm 8.5 vẫn còn có cảm giác thất bại.Cậu ấy như thể là CR7 của môn ""thể thao"" tiếng Anh vậy",0,0,1
+"Thi gần 20 lần. Nhận được điểm 8.5 vẫn còn có cảm giác thất bại.Cậu ấy như thể là CR7 của môn ""thể thao"" tiếng Anh vậy",0,1,1
 "Kể cả nhà tù cũng nên áp dụng hình thức này chứ không chỉ cai nghiện, nhà tù không phải nơi vào nghỉ ngơi, xả hơi, làm quần quật sáng đến tối, như vậy thì người ta mới sợ vào tù, sau khi ra tù thì không thứ lao động nào còn ngán nữa :-)",0,0,1
 Tôi chả thiện cảm cô Megan này. ,0,0,1
 Pháp luật cần trừng trị nghiêm những kẻ như thế này! Rất tội cho các bé!!!,0,0,1
@@ -622,7 +622,7 @@ Cơ quan công an nên vào cuộc sớm,0,0,1
 Máy nổ tàu thuyền làm nhức đầu cá nên cá giận húc tàu là đúng! Phép nhân quả mà.,0,0,1
 Đau buồn quá.,-1,0,0
 Bình an con nhé.,0,0,1
-"Với bất cứ kịch bản nào thì tầm quan trọng cũng như giá trị của giải bị giảm đi rất nhiều khi khán giả hai đội vẫn chưa thể vào sân.Mùa giải cũ đã qua, thất bại hay chiến thắng đã là quá khứ. Nếu như Barca chung bảng với Bayern cũng không có gì ghê gớm, thậm chí là may mắn nữa. Giả sử có thua Bayern mà đoạt vé đi tiếp thì cơ hội tiến sâu lớn hơn là gặp ở vòng loại trực tiếp. Mà bóng đá hay các môn thể thao đối kháng mang tính chất tập thể thì không bao giờ tồn tại tính chất bắc cầu, tính tiếp diễn cũng khó tồn tại lâu qua hai mùa giải.Điều mong chờ nhất lúc này ở các môn thể thao nói chung và bóng đá nói riêng là được thấy các cđv được sống trong ngày hội trên khán đài, chừng nào điều này chưa xảy ra thì cho dù giải đấu hấp dẫn nhất cấp CLB vẫn nhạt nhòa lắm. Hy vọng điều đó sớm diễn ra và mong cho đại dịch quái ác này biến nhanh càng sớm càng tốt!A, năm nay xuất hiện vài đại điện lạ hoắc; Ferencvaros (Hungary) và Krasnoda (Nga), hai đội bóng có thể nói là như tờ giấy trắng tại C1. Nga năm nay có tận 3 đại diện (Zenit, Lokimotiv và Krasnoda), rất khá.",1,0,0
+"Với bất cứ kịch bản nào thì tầm quan trọng cũng như giá trị của giải bị giảm đi rất nhiều khi khán giả hai đội vẫn chưa thể vào sân.Mùa giải cũ đã qua, thất bại hay chiến thắng đã là quá khứ. Nếu như Barca chung bảng với Bayern cũng không có gì ghê gớm, thậm chí là may mắn nữa. Giả sử có thua Bayern mà đoạt vé đi tiếp thì cơ hội tiến sâu lớn hơn là gặp ở vòng loại trực tiếp. Mà bóng đá hay các môn thể thao đối kháng mang tính chất tập thể thì không bao giờ tồn tại tính chất bắc cầu, tính tiếp diễn cũng khó tồn tại lâu qua hai mùa giải.Điều mong chờ nhất lúc này ở các môn thể thao nói chung và bóng đá nói riêng là được thấy các cđv được sống trong ngày hội trên khán đài, chừng nào điều này chưa xảy ra thì cho dù giải đấu hấp dẫn nhất cấp CLB vẫn nhạt nhòa lắm. Hy vọng điều đó sớm diễn ra và mong cho đại dịch quái ác này biến nhanh càng sớm càng tốt!A, năm nay xuất hiện vài đại điện lạ hoắc; Ferencvaros (Hungary) và Krasnoda (Nga), hai đội bóng có thể nói là như tờ giấy trắng tại C1. Nga năm nay có tận 3 đại diện (Zenit, Lokimotiv và Krasnoda), rất khá.",1,1,0
 "Cô giáo xữ lý như vậy cũng đúng với thời điểm hiện này vi côn đồ nhiều. Ông đó đang nóng tính nếu cô căn ngăn thì ông đó sẽ tát vào mặt cô, hoặc đá vào cô hết sức mình. Cô sẽ xĩu bất tĩnh. Cô chỉ biết vổ về 2 cháu mà lực bất tòng tâm. Vì cô biết sau việc này ông đó sẽ bị công an xử lý trích đáng. Các cô trong trường hợp này cũng khổ sở lắm. Mong được xem xét lại nhiều khía cạnh với cô giáo.",-1,0,0
 Trí tuệ mỗi người một khác. Muốn đất nước phát triển phải tạo ĐK cho những hạt giống tốt có môi trường phát huy hết khả năng. Trường chuyên là môi trường tốt để làm việc đó. Chứ đổ đồng với nhau thì thui chột nhân tài à???,1,0,0
 "Con tôi ở nhà rất ngoan, lâu lâu chỉ tụ tập bạn bè nhậu sáng đêm thôi, đây là lần đầu nó Lỡ tay giết người khi có cơ hội",0,0,1
@@ -1037,7 +1037,7 @@ Nhìn vào thấy cầu nhơn trạch bố trí là chưa hợp lí rồi. Đề
 "Cá trê gì kỳ vậy? Cá trê mà không có râu, không có gai ngạnh??? Còn cá đó nhìn giống cá lóc ( hay còn gọi là cá chuối, cá quả...) hơn.",1,0,0
 "Ông này giải nghệ đi là vừa, trình chỉ có thế, so vơi Big có khác việc chấn thương và trở lại sau chấn thương cũng ở đẳng cấp khác Big 3 rồi",0,0,1
 "Đã từng một thời sắc nước hương trời như Jennifer Aniston, rồi cũng có ngày nhan sắc phai tàn như hôm nay. Và sau một số năm nữa, mái đầu sẽ bạc, nếp hằn trên khuôn mặt sẽ nhiều lên. Hẳn là không người phụ nữ nào muốn thấy khuôn mặt già nua nhăn nheo của mình theo thời gian, như hai câu thơ đã miêu tả: Mỹ nhân tự cổ như danh tướng, bất hứa nhân gian kiến bạch đầu.",0,0,1
-Đúng là cặn bã ấu dâm!,0,0,1
+Đúng là cặn bã ấu dâm!,0,1,1
 "ĐỌC MÀ ĐAU LÒNG HẾT SỨC, VÀO NĂM HỌC RỒI Ở CÁC TRƯỜNG CÓ CƠ SỞ VẬT CHẤT ĐÃ CŨ NÊN CÓ ĐOÀN THANH KIỂM TRA LÀ TỐT NHẤT.",-1,1,1
 Mẹc Xì góp 1 bàn vào chiến thắng của Barca. => Penalty thì cules không có tính là Goal nhé!!! B),0,0,1
 "Tôi, 8x đời đầu, đã đọc hết 70 tập TKKG, vẫn rất mong đợi sách tái bản để tiếp tục sống lại một thời tuổi thơ hoa mộng của mình",0,0,1
@@ -1064,7 +1064,7 @@ Thương quá! Đọc mà không cầm nước mắt.,1,0,0
 Trường ở đây cũng có quy định về tóc mà.,0,0,1
 "Si tới Liverpool còn ghi không nổi 1 bàn và thua tới 4-0 ở thời điểm đó Liverpool chỉ đá với đội hình 2, toàn dự bị vì những cầu thủ chính dính thương và thẻ trước đó mà. Lacazette trên Si 1 bậc còn đòi hỏi gì nữa!",0,0,1
 xinh quá cara,1,0,0
-"Giữa hai người lúc này thì những ji mà Trump đã làm thì đã hiện hữu, có cái thành công và có những cái không như ý nên công kích vào những thất bại của Trump dễ hơn, còn Biden chưa làm ji ngoài những lời hứa hẹn nên khó mà công kích hơn Trump",0,0,1
+"Giữa hai người lúc này thì những ji mà Trump đã làm thì đã hiện hữu, có cái thành công và có những cái không như ý nên công kích vào những thất bại của Trump dễ hơn, còn Biden chưa làm ji ngoài những lời hứa hẹn nên khó mà công kích hơn Trump",0,1,1
 "đau lòng quá đi, mong các con được siêu thoát.",-1,0,0
 Tưởng con cá chết vì nọc độc của con rắn cắn vào đuôi chứ nhỉ,0,0,1
 "Anh Bale này bị chấn thương hoài nên cũng ko ham, vừa mới qua Tot mà đã bị chấn thương rồi, tưởng được xem bale tối nay đá, ai dè lại phải dưỡng thương, nghe mà phát ngán, nên Tottenham cũng ko nên hy vọng nhiều quá ở cầu thủ này để có khi phải thất vọng tràn trề.",-1,0,0
@@ -1325,7 +1325,7 @@ Chúc mừng Bayern Munich :-) & Xin chia buồn đến Sevilla. Sevilla đã c�
 "Cũng đội hình cầu thủ như vậy,thiếu mỗi đôi cánh robby mà sao hansi đưa bayern có 5 cúp,trong khi pep chỉ làng nhàng với cái bundesliga nhỉ",0,0,1
 2015 - 2020 nhìn quả ảnh thống kê cầu thủ 82 triệu năm có 1 giơ 2 tay lên trời thì cup vơi dần.. Chỉ là cầu thủ hay nhất CLB thôi nhé các bé CulesChứ so ra bên ngoài ngại lắm,1,0,0
 "Con tôi đứa lớp 3 đứa lớp 4 ngày nào cũng vật lộn 1 đống bài. Tiếng việt chưa rõ lại phải học tiếng anh, hàng trăm thứ đổ lên đầu bọn nhỏ, phụ huynh cũng căng thẳng theo. giờ cũng ko biết làm sao",0,0,1
-"Thi gần 20 lần. Nhận được điểm 8.5 vẫn còn có cảm giác thất bại.Tôi thật khâm phục sự cầu toàn và kiên trì của em. Tôi chưa rõ đích nhắm đến trong sự nghiệp của em là gì nhưng trước mắt với việc giảng dạy của em, các học sinh của em có thể hưởng lợi từ các kinh nghiệm qua các lần thi đó. Có thể em chưa là người giỏi nhất về tiếng Anh nhưng hãy tiếp tục là người truyền lửa và đam mê cho mọi người.",1,0,0
+"Thi gần 20 lần. Nhận được điểm 8.5 vẫn còn có cảm giác thất bại.Tôi thật khâm phục sự cầu toàn và kiên trì của em. Tôi chưa rõ đích nhắm đến trong sự nghiệp của em là gì nhưng trước mắt với việc giảng dạy của em, các học sinh của em có thể hưởng lợi từ các kinh nghiệm qua các lần thi đó. Có thể em chưa là người giỏi nhất về tiếng Anh nhưng hãy tiếp tục là người truyền lửa và đam mê cho mọi người.",1,1,0
 "tốt nhất chạy thử bác ơi, chứ cũng khó chọn ghê, mỗi xe 1 thế mạnh mà",1,0,0
 "Lúc đầu, khi một người nghĩ ra cái gì đó mới mẻ thì đều nghĩ nó rất hay. Nhưng sau một tg áp dụng sẽ rất nhiều người phải hối hận",1,0,0
 "DN có lãi đâu mà giảm thuế TNDN, chúng tôi phải gồng từng ngày để duy trì và sống sót, có hỗ trợ vốn thêm thì tác dụng chứ giảm cái mà chúng tôi không có thì có tác dụng gì đâu.",0,0,1
@@ -1961,7 +1961,7 @@ Thôi xong. Thương hiệu này chắc sẽ không thể tồn tại được n
 "Hôm rồi xem phỏng vấn, tui lại sợ ông đi trên mây ấy chứ",0,0,1
 Cái đẹp trong mắt của kẻ si tìnhNếu có những người có thể si tình qua âm nhạc thì Binz thắng rồi!,1,0,0
 "Kẻ gây án giết người bất thành là tên Thạnh, hắn cố sát nhưng do đạn ko nổ nên chưa thực hiện được hành vi giết người, nạn nhân đã cố bỏ chạy nhưng hắn quyết tâm truy sát đến cùng, trong trường hợp này rõ ràng Đi đang hoảng loạn và thần kinh bị kích động mạnh, phải chờ tên Thạnh nhặt được súng lên rồi mới chém để gọi là tự vệ chính đáng thì có lẽ hôm nay đứng trước vành móng ngựa là tên Thạnh kia, còn cậu Đi này và có thể cả người thân đã xanh cỏ rồi!",-1,2,1
-"Su thỏ thì ghi bàn và kiếm tạo cho ATM, còn Griezmann thì tàng hình trên sân mà buồn cho BLĐ kém cỏi của Barca, Griezmann nên nhìn Rô mà học hỏi: đến Juve với mục đích là tìm nơi an nhàn hôi cúp, nhưng sau 2 năm ăn hại khiến Juve thụt lùi và lỗ nặng thì lâu lâu Rô phải có một trận đấu lập công bù tội để vơi đi nỗi buồn của CĐV.",-1,0,0
+"Su thỏ thì ghi bàn và kiếm tạo cho ATM, còn Griezmann thì tàng hình trên sân mà buồn cho BLĐ kém cỏi của Barca, Griezmann nên nhìn Rô mà học hỏi: đến Juve với mục đích là tìm nơi an nhàn hôi cúp, nhưng sau 2 năm ăn hại khiến Juve thụt lùi và lỗ nặng thì lâu lâu Rô phải có một trận đấu lập công bù tội để vơi đi nỗi buồn của CĐV.",-1,1,0
  Mong các bé bình phục. Mong sư vững tâm vượt qua thử thách đầy tai ách này!,0,0,1
 Quá chán.,-1,0,0
 So với tên tuổi em ấy thời đó thì 500 triệu 2 tháng vẫn là ít,0,0,1
@@ -2279,7 +2279,7 @@ Cứ như cái bẫy cài trên đường...,0,0,1
 yên tâm đi các Cules bảo vệ anh ghê lắ,0,0,1
 Thật sự quá lãng phí!!!,-1,0,0
 Quản lý nhập cảnh đầu vàoBình yên sẽ đến ta nào lo âuNgười đến dù ở nơi đâuKiểm soát chặt chẽ tuyến đầu vững tâm !,0,0,1
-"Thay tướng đổi vận. Cũng đúng thôi Thua SLNA cũng không có gì ghê gớm lắm. Nên nhớ V5 V-League, đương kim vô địch V-League Hà Nội FC đã nhận thất bại 0-1 ngay lần sinh nhật thứ 14 trên sân Hàng Đẫy trước SLNA.",1,0,0
+"Thay tướng đổi vận. Cũng đúng thôi Thua SLNA cũng không có gì ghê gớm lắm. Nên nhớ V5 V-League, đương kim vô địch V-League Hà Nội FC đã nhận thất bại 0-1 ngay lần sinh nhật thứ 14 trên sân Hàng Đẫy trước SLNA.",1,1,0
 Trách nhiệm thuộc về ai.?,0,0,0
 "Người Nhật, Hàn, Trung tính dân tộc của họ rất cao, họ thường mua sắm xe nội địa để thúc đẩy kinh tế nước nhà",0,0,1
 Hoan hô chiến sĩ giỏi giangTả sung hữu đột phạm toang thật rồi !,1,0,0
@@ -2992,7 +2992,7 @@ Sao cái huy hiệu thần binh bữa thầy kêu nhận h vẫn ko có trong ga
 Trao học bổng cho trò này,0,0,1
 ôi vchhhh chị em :(((((,0,0,1
 :))) thầy sela,0,0,0
-"Dume. Đầu óc đ gì cứ như gói trà túi lọc ấy, tinh tuý thì thoát hết ra ngoài, cặn bã thì ở lại",0,0,1
+"Dume. Đầu óc đ gì cứ như gói trà túi lọc ấy, tinh tuý thì thoát hết ra ngoài, cặn bã thì ở lại",0,1,1
 Nếu biết nhìn thì thực sự bà ấy làm tốt,1,0,0
 Đừng Chửi nữa,-1,2,0
 con anh độ á =)) bé ngonnn =)) khi nào anh cần con dâu =)) nhớ đến emm,1,0,0
@@ -3640,7 +3640,7 @@ Mai koo dc lam fan cung :<,0,0,1
 mẹ nó sủa nge mà thối qúa trời,-1,1,0
 Òa là thầy giáo lại vừa đẹp trai lại chu đáo mê quá đi à,1,0,0
 khác mỗi cái nốt ruồi duyênnn🥴,0,0,1
-Cười vô mặt mày một cái... cặn bã ạ... hãy tự biến mất luôn đi,0,0,1
+Cười vô mặt mày một cái... cặn bã ạ... hãy tự biến mất luôn đi,0,1,1
 Chán Chung =((,-1,0,0
 Da chua cô ba oi,0,0,1
 Hong Vann Thì anh tôi mà 🤣🤣,0,0,1
@@ -4993,7 +4993,7 @@ Anh bán hết nhé,0,0,1
 quạo nha,0,0,0
 Tr ơi !hãy uống nữa đi cho một giọt nước đái nghe đắng cay trong quần,0,0,1
 Xuất sắc vc các cụ ạ,1,0,0
-"Đạo đức giả là hành trang,của các quan.không thể thiếu trong lộ trình quan lộ.",0,0,1
+"Đạo đức giả là hành trang,của các quan.không thể thiếu trong lộ trình quan lộ.",0,1,1
 Và *Bùmmmm* hôm nay không có ao làng các bạn nhé :))),0,0,1
 7-8 triệu ko đủ tiền để ăn cơm nên anh tôi phải ăn cua với tôm trừ bữa,0,0,1
 Đợi thầy mãi :(,0,0,1
@@ -5870,7 +5870,7 @@ E nghèo quá kg có tiền nuôi con ăn học vậy chị có thương e chị
 Thanh Bình đừng quan tâm :)),0,0,1
 Nguyễn Hoài Bảo Ghe rk na :)),-1,0,0
 Cô Lan bây h nhìn sang chảnh deso ..ns chx nhỏ nhẹ nữa,0,0,1
-"Lũ bất tài, vô dụng, học hành không lo, lo ăn chơi, lười biếng xong đổ cho "" Xã hội đổ nát, nhà nước vô dụng "".... Xin lỗi chứ một chục cái nước Mĩ cũng chả gánh nổi đám phá của tụi mày đâu :/",0,0,1
+"Lũ bất tài, vô dụng, học hành không lo, lo ăn chơi, lười biếng xong đổ cho "" Xã hội đổ nát, nhà nước vô dụng "".... Xin lỗi chứ một chục cái nước Mĩ cũng chả gánh nổi đám phá của tụi mày đâu :/",0,1,1
 lịt pẹ vỗ tay 👏👏,1,0,0
 Đập dập l nó ik minh hiếu,0,0,1
 Đhhfhfhbfhfjffhhfhfhhcchg,0,1,1
@@ -6913,7 +6913,7 @@ T đã dự đoán trước nha ae,0,0,1
 Văn Thị Cẩm Vân con sam ý hả bạn ? Mình thấy ngon mà ta ! Nhưng có ngon mình cũng ko dám ăn lần nữa vì sợ bị nhầm thì toi 😭,0,0,1
 Chị đẹp quá chị ơi chửi linh cá lóc đi chị mà em rất thích những người mà chửi linh cá lóc lắm mà nghe đã lắm chị em đặng chị 4 like new luôn,1,2,0
 Đạt chân có vẻ nuột nhưng tay kìa,0,0,1
-"Thật ác độc quá đi,ảnh chỉ mất show thời corona ạm thời thôi",0,0,1
+"Thật ác độc quá đi,ảnh chỉ mất show thời corona ạm thời thôi",0,1,1
 Nghỉ hè luôn,0,0,0
 Ad m éo làm đc cái chi mà tối ngày đi vạch lá tìm sâu mà nói! Có tài thì bỏ face và làm j đó thực tế đi.,0,0,1
 Haha vậy là bạn không biết thì đừng la lớn,0,0,1
@@ -8452,7 +8452,7 @@ Mỹ Hạnh trend mới 🤞🏻🤞🏻🤞🏻 haha,0,0,1
 Kk.kk.kk,0,0,0
 Lee Sin lạy hồn=)),0,0,1
 Lời hứa mấy ông này như trò hề. Còn nhớ cái ngày ông Dũng lên làm thủ tướng ông ấy hứa nếu k xóa đc nạn tham nhũng thì sẽ từ chức. Và thực tế thì nạn tham nhũng tăng lên. Còn ông có từ chức mẹ gì đâu,-1,0,0
-câu nói vô dụng nhất game,0,0,1
+câu nói vô dụng nhất game,0,1,1
 Đồng tiền vô giá trị nhất nữa.,0,0,1
 Rồi khi nào Ba Gà mới xoá kênh ???,0,0,0
 "Kinh tế thị trường, cung nhỏ hơn cầu thì giá tăng. Năm nào đến đợt sát tết dân lại chả găm, giá đợt tết lên gấp rưỡi. Thanh niên nào nuôi lợn mà bảo không găm, quanh khu vực Sóc Sơn, Hà Nội bán kính 100km, pm tôi đàm phán giá, được giá xúc luôn, làm ăn lâu dài.",0,0,1
@@ -8878,7 +8878,7 @@ Khue Kim Tran ?? :D ??,0,0,0
 Cầu mong bạn ấy ko sao!!!,0,0,1
 Cám ơn salon đã cho mình bộ tóc ngon lành ăn tết :)),1,0,0
 AFang :v,0,0,0
-"Những người sống lỗi thường không thực hiện lời hứa, nhưng tao nghĩ thầy tao đúng là loại người đó :))",0,0,1
+"Những người sống lỗi thường không thực hiện lời hứa, nhưng tao nghĩ thầy tao đúng là loại người đó :))",0,1,1
 Thích chế quá chửi nghe đã.,0,0,1
 Siu phẩm hả abe 🤔🤔🤔,0,0,1
 Giau Lê nó phải xét nghiệm rồi mới truyền.. :v,0,0,1
@@ -9312,12 +9312,12 @@ From. Hậu Giang,0,0,1
 Đợi cc ang nhỉ,0,1,0
 cái ll cát không,0,0,1
 An Đặng Travel official bả giờ chảnh lắm mày page của fan lấy hình làm meme chế clip mục đích vui bả nói chuyện kiểu như không cần ấy rồi report động nulo cũng vậy làm vậy fan đổi qua anti bả luôn,0,0,1
-Bắn bỏ đi thứ lắm Tiền mà cặn bã xã hội,0,0,1
+Bắn bỏ đi thứ lắm Tiền mà cặn bã xã hội,0,1,1
 Kiểu tóc ko bao h lỗi mốt,0,0,1
 nhớ hồi trước anh độ nói nếu tôi mà là con gái tôi sẽ xung phong đi nghĩa vụ xong phục tùng các anh em trong đó,0,0,1
 Quỳnh Như vô like cho idol chưa thế🤣,0,0,1
 khi nào senna ra thầy nhớ làm giáo án nha thầy :33 mãu iu thầy dấu bé baaa,0,0,1
-Chẳng qua là chính quyền trở nên vô dụng nên người dân mới tự mình làm thôi,0,0,1
+Chẳng qua là chính quyền trở nên vô dụng nên người dân mới tự mình làm thôi,0,1,1
 Khúc sau đâu abe ?,0,0,0
 xạo lol quá má ơi,0,1,1
 Nghi Nguyen thế b lại k hiểu ý mình r :))),-1,0,0
@@ -9771,7 +9771,7 @@ Trịnh Nam Long :)) phát biểu 1 câu cả làng vào chửi,-1,2,1
 Nguyễn Phương cánh hoa nhé 🖕🏼🖕🏼,-1,0,0
 Trời ơi trời ngạc nhiên chưa ông mười nầy ổng quánh người chết bằng tiếng nói của ổng đó Ui trời ngạc nhiên chưa ông mười nầy quảng cáo rất rất là nhanh trời trời tám bà chửi kg lại ông ta đó nhé,0,0,1
 Nguyễn Dũng nói như dị mới cần có Nỗ Lực chứ,1,0,0
-Đất nước việt nam bây giờ giống như trung quốc hồi cách mạng văn hóa quá. Bệnh thành tích và gia đình trị con ông cháu cha đưa lên.bất tài vô dụng tham nhũng chảy máu chất xám lừa dân. Tức nước vỡ bờ sớm muộn chúng nó cũng bán rẻ đất nước này,-1,0,0
+Đất nước việt nam bây giờ giống như trung quốc hồi cách mạng văn hóa quá. Bệnh thành tích và gia đình trị con ông cháu cha đưa lên.bất tài vô dụng tham nhũng chảy máu chất xám lừa dân. Tức nước vỡ bờ sớm muộn chúng nó cũng bán rẻ đất nước này,-1,1,0
 Di 3 ơi.ai nói gì nói.mieng người ma.di 3 sống tốt vs lương tâm là dc rui.con thích cách NC của di 3.rat chân thật.,1,0,0
 linh khùng,-1,2,0
 Tóc tai như cái lông chổi :v,0,0,1
