@@ -1,6 +1,6 @@
 Comment,Sentiment,Toxicity,ambiguity_flag
-Nhiều người cứ nghĩ đạp xe là văn minh. haizzzz,-1,1,0
-"Tước bằng lái vĩnh viễn đi. Chạy lếu láo thật, không coi mạng người ra cả!",-1,1,0
+Nhiều người cứ nghĩ đạp xe là văn minh. haizzzz,-1,0,0
+"Tước bằng lái vĩnh viễn đi. Chạy lếu láo thật, không coi mạng người ra cả!",-1,0,0
 Quỷ dữ chứ không phải con người. Thật xót xa cho các cháu khi bị chính những người máu mủ ruột rà đối xử như vậy!!,-1,0,0
 "Google, intel, Ibm của Mỹ đua công nghệ tạo ra máy tính lượng tử, chip lượng tử cách đây mấy năm rồi ạ và họ cũng có sản phẩm mẫu đầu tiên. Trung Quốc chỉ sao chép những gì được công bố và nghiên cứu sau thôi ạ. Mọi người đừng tâng bốc Trung Quốc quá bởi vì một người đi sau, nghiên cứu sau không thể linh hoạt và sáng tạo hơn người đã nghiên cứu trước được.",-1,0,0
 "Cảm giác của nam thanh niên khi bị chúng đe dọa, cướp bóc còn cô người yêu thì bị chúng hãm hiếp nó đau đớn và bất lực cỡ nào thì không thể tưởng tượng nổi.",-1,0,0
@@ -32,7 +32,7 @@ bài này hay đấy,1,0,0
 Cụ khỏe quá. Mất nửa hàm mà thọ tới 96 tuổi,1,0,0
 Rất thích những bài viết chuyên sâu với góc nhìn đa chiều trên nhiều lĩnh vực thế này. Cảm ơn tác giả Phan Duy!,1,0,0
 Thất bại rồi,-1,0,0
-"Nói thật lòng tôi đầu 8x là fan của anh từ những năm 94 nhưng khi nghe anh hát dòng nhạc này cảm giác nó ko thật sự phù hợp vì muốn hát bolero thì hơi phải dài, mới đủ sức luyến láy, chứ hát bolero mà hát ngắt khoảng ko luyến láy thì coi như nhạc bolero đã mất đi phần nào bản sắc của dòng nhạc",-1,1,0
+"Nói thật lòng tôi đầu 8x là fan của anh từ những năm 94 nhưng khi nghe anh hát dòng nhạc này cảm giác nó ko thật sự phù hợp vì muốn hát bolero thì hơi phải dài, mới đủ sức luyến láy, chứ hát bolero mà hát ngắt khoảng ko luyến láy thì coi như nhạc bolero đã mất đi phần nào bản sắc của dòng nhạc",-1,0,0
 May Juventus gánh Tạ nặng chứ không Ajax làm gì có thế hệ vàng này. :'),0,0,0
 "Thay vì mỗi hs một điện thoại, thì chỉ gv có điện thoại, kết nối với internet và với projector. Nghĩa là gv có thể làm chủ tiết học mà không phải""giám sát"" từng hs.",0,0,0
 Sinh nghề tử nghiệp. Chia buồn !,-1,0,0
@@ -40,12 +40,12 @@ Ngày Vinfast thống trị thị trường ô tô Việt Nam sẽ sớm thôi! 
 "Xe hàn bán được tại thị trường khác thì bảo xe tốt. Còn xe hàn không bán được tại Âu, Mỹ thì bảo là bảo hộ nội địa. Đúng là tiêu chuẩn kép",-1,0,0
 Đi câu cá bị cá câu.,0,0,0
 nếu đầu tư chạy dịch vụ chắc ổn bác nhỉ?,0,0,0
-"Nói như ngân hàng khuyến cáo: không cung cấp giấy tờ có ảnh... Không biết ông này có bao giờ đi du lịch theo tour chưa. Mọi người đi du lịch theo tour đều phải scan, nộp bản gốc. Vấn đề là khi ngân hàng tiếp nhận thông tin mở thẻ thì cần đối chiếu đúng người, cần thiết hỏi test vài câu để đảm bảo đúng người. ",-1,1,0
+"Nói như ngân hàng khuyến cáo: không cung cấp giấy tờ có ảnh... Không biết ông này có bao giờ đi du lịch theo tour chưa. Mọi người đi du lịch theo tour đều phải scan, nộp bản gốc. Vấn đề là khi ngân hàng tiếp nhận thông tin mở thẻ thì cần đối chiếu đúng người, cần thiết hỏi test vài câu để đảm bảo đúng người. ",-1,0,0
 i10 cho tiết kiệm xăng,1,0,0
 cầu cho họ và con cái họ an toàn và khỏe mạnh,1,0,0
 Tội xúi giục con nít trộm cắp phải phạt thật nặng,-1,0,0
 "Phim đó tui xem khi đi thi đại học, tới giờ có đài vẫn chiếu, vẫn hay như ngày nào",1,0,0
-"Nếu theo thang điểm, tôi xin lỗi Ông:Nói tôi chấm 9Làm tôi chấm 2.",-1,1,0
+"Nếu theo thang điểm, tôi xin lỗi Ông:Nói tôi chấm 9Làm tôi chấm 2.",-1,0,0
 Lại khổ cho những người phòng chống dịch rồi!,-1,0,0
 Đau lòng vô cùng con ơi,-1,0,0
 "Giỏi Toán, giỏi Văn là do tư duy của HS. Còn giỏi Anh thì phần lớn là do môi trường. Những người hoàn toàn ko giỏi tiếng Anh bậc THPT vẫn đang thành công vượt bậc vì họ có nhiều năng lực khác cần thiết hơn: tư duy kỹ thuật, tư duy tính toán, tư duy phân tích... Khi vị trí việc làm đòi hỏi ngoại ngữ, họ sẽ tự trang bị ổn thôi. Ko nên nhồi vào 1 đứa trẻ quá nhiều thứ.",0,0,0
@@ -65,16 +65,16 @@ Khâm phục người cha như anh,1,0,0
 "Cộng thêm semedo là 10 cầu thủ bồ đào nha rồi, mua thêm 1 cầu thủ Bồ Đào Nha nữa là đủ một đội tuyển Bồ (với đủ các vị trí trên sân) thi đấu tại ngoại hạng Anh với HLV người Bồ. Bồ Đào Nha hoá là đây.",0,0,0
 Tóm lại toàn giả thuyết.Tri thức con nguời so với vũ trụ quá nhỏ bé. Mỗi chuyện trái đất đứng yên hay chuyển động còn cãi nhau cả bao thế hệ. ,-1,0,0
 "Có vô số và có thể lớn hơn nữa. Vd như tam giác cân có chiều cao đỉnh tới cạnh đáy lă 0.2mm = 2e-7km cạnh đáy là 6e+15km. Thì S = 2e-7 x 6e+15 / 2 = 6e+8 = 600.000.000 sqkm. 2 chiều cao kia bằng nhau và < 2x 0,2 mm nên tổng 3 chiều cao nhỏ hơn 1mm",0,0,0
-"Ở nam có Sướng, bắc có Phát - toàn đại za xăng dầu. Cuộc đời ngắn ngủi đôi khi Sướng một Phát rồi .... mặc đồ Juventus nhé",-1,1,0
+"Ở nam có Sướng, bắc có Phát - toàn đại za xăng dầu. Cuộc đời ngắn ngủi đôi khi Sướng một Phát rồi .... mặc đồ Juventus nhé",-1,0,0
 Sau bao năm vất vả thì giờ anh đã có trái ngọt thật phi thường chúc 2 bố con bình an và hạnh phúc,1,0,0
 "HL có một giọng hát đẹp, lên cao xuống thấp xử lý rất tinh tế, cách cậu ấy đưa cảm xúc của mình vào bài hát chân thật như chính con người cậu ấy vậy.",1,0,0
-"có nhiêu đó ngày nào cũng đá qa đá lại qài ko chán hả tr, ai cũng hay mà?",-1,1,0
+"có nhiêu đó ngày nào cũng đá qa đá lại qài ko chán hả tr, ai cũng hay mà?",-1,0,0
 "mỹ giàu, mất hàng trăm triệu cũng được, quan trọng hơn là không phi công nào chết",1,0,0
 Trông mặt hai đứa này đã thấy bất lương rồi.,-1,1,0
 "Thật đáng sợ, em search thử bà bầu ăn củ dền trên Google thì toàn nhắc đây là như là món rau củ giàu dưỡng chất cho mẹ và bé. Thực tế mẹ bầu 4.0 bây giờ ăn gì, uống gì đều dùng Google kiểm tra thông tin, chứ không phải ăn cái gì cũng đòi lên viện hoặc gọi bác sĩ được",-1,0,0
 Vẫn ủng hộ Trump!,1,0,0
 "Kẻ 2 đường thẳng a // b có khoảng cách h = 1/3 mm. Trên a chọn điểm A bất kỳ, trên b chọn B,C có chiều dài l = vô cùng>> tổng chiều dài các đường cao của tam giác ABC < 3x1/3 mm < 1mmDiện tích tam giác ABC= 1/2*1/3*l = vô cùng",0,0,0
-"Thật vĩ đại!, Messi ghi hàng tá bàn thắng vào lưới Real và coi sân Hoàng Gia như sân tập, cay hơn nữa là Messi luôn cho MU ăn hành và cướp đi của họ 2 cái C1, cay hơn hết vẫn là việc Messi đạot 6QBV, 6 giày và lương cao nhất TG, CLB thì giữ lại như báu vật,..., còn idol Múi thì thua kém toàn diện cho dù đã dùng mọi thủ đoạn để bám theo như: ăn vạ hôi pen, tráo băng đội trưởng BĐN để tự bầu QBV cho mình, gập bụng khoe múi,.., nhưng vẫn không theo kịp Messi, vậy fan múi mới ghen tức anti Messi king khủng đến như vậy",1,1,0
+"Thật vĩ đại!, Messi ghi hàng tá bàn thắng vào lưới Real và coi sân Hoàng Gia như sân tập, cay hơn nữa là Messi luôn cho MU ăn hành và cướp đi của họ 2 cái C1, cay hơn hết vẫn là việc Messi đạot 6QBV, 6 giày và lương cao nhất TG, CLB thì giữ lại như báu vật,..., còn idol Múi thì thua kém toàn diện cho dù đã dùng mọi thủ đoạn để bám theo như: ăn vạ hôi pen, tráo băng đội trưởng BĐN để tự bầu QBV cho mình, gập bụng khoe múi,.., nhưng vẫn không theo kịp Messi, vậy fan múi mới ghen tức anti Messi king khủng đến như vậy",-1,1,0
 Trời ơi khủng khiếp!,-1,0,0
 Cần xử lý thật nghiêm tội bạo hành trẻ em để không còn xảy ra tình trạng đau lòng này nữa.,-1,0,0
 Cầm thú cũng không ác độc bằng hai chị em mụ này,-1,0,0
@@ -123,7 +123,7 @@ Nhiều thanh niên lắp trợ sáng đi đường làng cũng bật. Các ông
 "Luật Mỹ nếu nổ súng khi đang ở trên xe là tội nặng hơn nhiều. Tội này càng bị nâng cao nếu xe đang chạy. Lý do chính là khi tay súng ở trên xe đang di chuyển cơ hội rất cao sẽ bị lạc đạn và gây hại oan cho nạn nhân khác không phải nạn nhân như dự định. Trong trường hợp này, chính xác là anh cảnh sát đang ngồi trong nhà với con bị lạc đạn mà chết.",0,0,0
 Dạo này hs bị tai bay vạ gió nhiều quá!,-1,0,0
 "Cá voi xanh thường bơi từ vùng biển bắc cực đến nam cực và ngược lại. lộ trình của chúng đi qua gần nước Mỹ nên có thể theo dõi được.Cá voi chỉ ăn phiêu sinh vật sinh trưởng vùng nước lạnh (các cực) vào mùa đông. Cho nên khi chuyển sang mùa hạ ở Bắc cực thì cá voi phải di cư đến Nam cực kiếm ăn , vì lúc đó ở Nam cực sẽ là mùa đông. Trong thời gian di chuyển, cá voi nhịn ăn. Thường thì cá voi con được sinh ra trong thời gian di chuyển và nếu có bơi xa mẹ sẽ bị cá mập bắt ăn thịt. Cá mập giết cá voi con, nhưng chỉ ăn cái lưỡi của nó !",0,0,0
-"Chúng tôi thuê các cô trông, giữ, dạy trẻ chứ đâu chỉ để gửi con đến trường để chúng chơi? Các cô không nên trông dạy trẻ nếu không kiểm soát và điều khiển dk các thành tố bên trong và bên ngoài",-1,1,0
+"Chúng tôi thuê các cô trông, giữ, dạy trẻ chứ đâu chỉ để gửi con đến trường để chúng chơi? Các cô không nên trông dạy trẻ nếu không kiểm soát và điều khiển dk các thành tố bên trong và bên ngoài",-1,0,0
 Thế thì tất cả các lễ lạc từ nay đến cuối năm sẽ bị xếp lại... Một Giáng Sinh buồn trong bệnh tật và chết chóc.?!?!...,-1,0,0
 "Bạn Tùng thì quá giỏi nếu tính theo tiêu chuẩn quốc tế IELTS rồi. So sánh với người bản địa là không công bằng, trừ khi lớn lên ở nước ngoài hoặc có bố mẹ người nước ngoài.",1,0,0
 Cá sấu há miệng vẫn kiếm được miếng ăn.,0,0,0
@@ -141,7 +141,7 @@ Bale đi rồi ai ghi những bàn quyết định ở những trận quyết đ
 barca chỉ thua nhà vô địch.. quá hợp lý !,1,0,0
 Em là nhân tài của Quốc gia. Mong em sau này đi du học hãy về phục vụ đất nước. Đây là mong muốn của Anh nhưng quyền quyết định lại là ở em,1,0,0
 Hi vọng giảm còn cấp 6 khi đổ bộ vào đất liền.,1,0,0
-Hồi mới nổi kiu ông hãy suy xét kỹ mọi điều thì ông cãi lại + ương bướng quyết theo con đường của ông. Giờ thì ông than.. Thật ra ông muốn sao..!?,-1,1,0
+Hồi mới nổi kiu ông hãy suy xét kỹ mọi điều thì ông cãi lại + ương bướng quyết theo con đường của ông. Giờ thì ông than.. Thật ra ông muốn sao..!?,-1,0,0
 làm công ăn lương mà 10 năm dư được 3tỷ. 2 vk chồng tôi làm 10 năm âm nợ gia đình 2 bên 100trịu.hi,0,0,0
 "Mua là để đi chứ không phải để cho thuê,bạn ý đã nói rõ cần tư vấn xe sx năm nào,tầm đó mua được xe morning tầm 2015,i10 đời thấp hơn",0,0,0
 "Ngày ngày đón tin vui, mong dịch qua sớm",1,0,0
@@ -151,10 +151,10 @@ Ký ức tuổi thơ của tôi lại ùa về.,1,0,0
 Wowy đăng cấp thật sự,1,0,0
 Nếu đi cao tốc 1000km chắc hơi tốn nhiều tiền phí.,-1,0,0
 "Điểm thi IELTS của bạn cao thật, xin chúc mừng. Nhưng thi đi thi lại tới 20 lần để làm gì vậy?",0,0,0
-"Biden chúc Trump và Đệ nhất phu nhân Melania ""nhanh chóng bình phục"" sau khi cả hai dương tính nCoV. Nhưng nếu ngược lại, Biden bị nhiễm và Trump âm tính thì chắc chắn Trump sẽ có một màn chế giễu ra trò!",-1,1,0
+"Biden chúc Trump và Đệ nhất phu nhân Melania ""nhanh chóng bình phục"" sau khi cả hai dương tính nCoV. Nhưng nếu ngược lại, Biden bị nhiễm và Trump âm tính thì chắc chắn Trump sẽ có một màn chế giễu ra trò!",-1,0,0
 "Vui nhất là khi đọc tới đoạn bố mẹ, ông bà nội ngoại tới đón về. Vậy là con ko bị bơ vơ giữa dòng đời này...",1,0,0
 Nhìn mấy mẫu đẹp đến kinh dị.,1,0,0
-Cậu ấy đá quá hay mà lại bán đi. Ông chủ tịch đúng là chẳng cần biết barca sau này ra sao.,-1,1,0
+Cậu ấy đá quá hay mà lại bán đi. Ông chủ tịch đúng là chẳng cần biết barca sau này ra sao.,-1,0,0
 Chúc mừng em đã trở lại . Bài hát hay quá ! :^*,1,0,0
 Một cái chết xứng đáng .,-1,0,0
 "Kỳ lạ. Mẹ nuôi 39 tuổi, con nuôi 16 tuổi, dương tính ma túy, chưa có bằng lái, lái xe gây tai nạn đặc biệt nghiêm trọng, 30 tháng tù ?",-1,0,0
@@ -189,10 +189,10 @@ Vẫn không hiểu lỗi đè vạch liền màu vàng ở ngoài đô thị th
 "Mình tưởng họ đã đáp lên Mặt Trăng rồi, thì việc đổ bộ tiếp theo sẽ trở nên đơn giản chứ.",0,0,0
 "25km thật ko tưởng, thật khủng khiếp.",0,0,0
 chrom hay crom bạn?,0,0,0
-Khi nhận vé đặc cách tuyên bố hùng hồn lắm mà sao lại out sớm thế Murray?,-1,1,0
+Khi nhận vé đặc cách tuyên bố hùng hồn lắm mà sao lại out sớm thế Murray?,-1,0,0
 "Lại nhắc lại kỷ lục 2 trận Bayern ghi được 8 bàn. Đúng là kỷ lục khó phá, có thể là lưu danh sử sách muôn đời",1,0,0
 Đây thuộc loại nhà xưởng rồi,0,0,0
-Má ơi con vi khuẩn gì mà nguy hiểm quá vậy. Bán đồ chay mà ko có tâm gì hết.,-1,1,0
+Má ơi con vi khuẩn gì mà nguy hiểm quá vậy. Bán đồ chay mà ko có tâm gì hết.,-1,0,0
 Biden sẽ kiếm được phiếu từ các doanh nghiệp này. Nước Mỹ khó khăn để vĩ đại trở lại.,-1,0,0
 "Chỉ Án sơ thẩm thôi, còn phúc thẩm nữa mà",0,0,0
 Tôi yêu bạn!,1,0,0
@@ -279,14 +279,14 @@ Chạy dịch vụ cứ xe nhật mà múc. Xe Hàn đi chơi thôi.,0,0,0
 Nhất quỷ nhì ma thứ ba là các cháu . May mắn là không làm sao bài học nhớ đời nhé !,1,0,0
 mua cruze 2013-2015 đủ tiền đó. ngon hơn mấy em kia,1,0,0
 Tot mạnh khủng thật.,1,0,0
-"Thẳng thắn là khi đưa ra ý kiến mang tính xây dựng một cách không e dè. Còn Trump chẳng đưa ra ý kiến gì, chỉ toàn những lời miệt thị cá nhân. Đó là thô lỗ chứ không phải thẳng thắn.",-1,1,0
-Mình thấy ông này rất kém...,-1,1,0
+"Thẳng thắn là khi đưa ra ý kiến mang tính xây dựng một cách không e dè. Còn Trump chẳng đưa ra ý kiến gì, chỉ toàn những lời miệt thị cá nhân. Đó là thô lỗ chứ không phải thẳng thắn.",-1,0,0
+Mình thấy ông này rất kém...,-1,0,0
 Trời ơi nhắc đến đường Nguyễn Hữu Cảnh là ốc ác nổi hết trơn... Ngập nước kẹt xe ai cũng rầu... Giờ cấm 6 tháng qua cầu vượt Nguyễn Hữu Cảnh nữa rất căng thẳng,-1,0,0
 Quá đẹp! ,1,0,0
 Sức mạnh của sự đoàn kết.,1,0,0
 "Đẹp như tiên giáng trần, ko biết cô ấy phải chịu đựng những gì trong cuộc sống mà phải tìm đến cái chết. Thật là đáng tiếc, chúc em hp trên thiên đường",1,0,0
 "Dù con chó nào nhìn đẹp nhìn sạch đến đâu cũng k dám lại gần. Thấy chó con mà chạy theo liếm chân là sợ hãi hùng luôn. Bản chất chó là loài hung dữ, nên trước sau gì cũng lộ thói hung dữ ra thôi",-1,0,0
-Juve mua Rô về mục đích chính là vô địch C1 chí ít là vô tới chung kết nhưng chỉ loanh quanh khu vực gửi xe và vòng 1/8. Nay mượn lại Morata từ Aletico một người cũ đã ghi bàn trong trận chung kết C1 cho Juve cũng chỉ với mục đích chính là cõng Tạ thoát khỏi vòng 1/8 c1 thôi,-1,1,0
+Juve mua Rô về mục đích chính là vô địch C1 chí ít là vô tới chung kết nhưng chỉ loanh quanh khu vực gửi xe và vòng 1/8. Nay mượn lại Morata từ Aletico một người cũ đã ghi bàn trong trận chung kết C1 cho Juve cũng chỉ với mục đích chính là cõng Tạ thoát khỏi vòng 1/8 c1 thôi,-1,0,0
 "Đã nhậu con này, ngon vô đối. Tôm Hùm gọi bằng cụ :D",1,0,0
 "ở Mỹ người ta không đánh bắt ven bờ, không bắt cá nhỏ, cho nên cá rất nhiều và sẽ còn rất nhiều con cá trê cỡ này đang sống",1,0,0
 "Người Bố tuyệt vời quá! Chúc GD luôn khỏe, hạnh phúc.",1,0,0
@@ -305,7 +305,7 @@ Cô ấy phù hợp làm tổng thống hơn cả cha và Biden.,1,0,0
 Covid-19 đang nợ Lewandowski một Quả bóng vàng! Chứ không phải Bóng đá nợ Si một Chức vô địch TG như các Cules vẫn kêu gào.,-1,0,0
 Nhiều cầu thủ hay quá,1,0,0
 "Không biết không quan tâm nhóm nhạc Hàn Quốc nào, toàn nhảy múa đu đưa.",-1,0,0
-Chỉ có thể là ở MỸ mới có cuộc cải nhau giữa tổng thống và ứng viên tổng thống cải nhau như hai bà bán cá ngoài chợ,-1,1,0
+Chỉ có thể là ở MỸ mới có cuộc cải nhau giữa tổng thống và ứng viên tổng thống cải nhau như hai bà bán cá ngoài chợ,-1,0,0
 "Con tui sau này muốn học sao học, đúp lại cũng được, tui vẫn cho bé ăn ngủ chơi đầy đủ. Một khi thể chất tốt thì làm gì cũng được, còn không thì bỏ đi, thất bại toàn tập.",0,0,0
 Mua xe điện bạn ơi. Tesla chẳng hạn,1,0,0
 "Thật ra thì có kẻ đã gọi điện kích động nạn nhân và mai phục sẵn khi biết chắc nạn nhân sẽ xuống nhà. Nạn nhân chết bởi cú đánh lún sọ lúc đầu tiên. Đâm chém sau này chỉ là muốn chắc chắn đã chết. Người cùng làng, ăn nhận cùng chỗ nên quá chủ quan mà chết. Âu cũng là số phận.",-1,0,0
@@ -318,7 +318,7 @@ nếu nó ngon và tốt cho sức khỏe thì càng tốt chứ sao?. nhiều m
 Mỹ: Mercedes - Lexus- Audi-BMW ( khai láo chứ BMW đứng thứ 4)VN: Lexus - Mercedes- Audi- BMW (Mình đã trừ các dòng xe phổ thông của mercedes ra khỏi bảng tính).Thân,0,0,0
 "Đình chỉ học có khi còn thích . Theo tôi vẫn cho đi học bình thường , buổi còn lại bắt đi lao động công ích.tái phạm thời gian lao động nhiều hơn.",0,0,0
 Tại sao họ từ nước ngoài về nhưng không có giấy xác nhận âm tính. Mình nghe nói có giấy mới được về mà.,-1,0,0
-"""Cô giữ quyền nuôi cả sáu con suốt những năm qua. Brad Pitt muốn tòa án chia đều thời gian hai người được gặp các con.""Xem đây đủ thấy ai biết điều, ai quá đáng.",-1,1,0
+"""Cô giữ quyền nuôi cả sáu con suốt những năm qua. Brad Pitt muốn tòa án chia đều thời gian hai người được gặp các con.""Xem đây đủ thấy ai biết điều, ai quá đáng.",-1,0,0
 "Nội dung chất lượng quá, xin cảm ơn!",1,0,0
 "Vẫn là Pen, một bên cướp Pen của em út với một bên tự làm tự ăn, vậy thì ai hôi pen bẩn vậy cule?",-1,1,0
 Việt Nam thật tuyệt vời,1,0,0
@@ -326,7 +326,7 @@ Việt Nam thật tuyệt vời,1,0,0
 "Các loài dưới biển còn có cơ hội lẫn sâu xuống đáy đại dương để tránh fon ngi, còn những động vật trên cạn thì đang dắt tay nhau tuyệt chủng",-1,0,0
 Chia buồn cùng cá sấu vợ,0,0,0
 "Với khối lượng như trên, khi vụ nổ xảy ra sức ép của vụ nổ cực lớn xé toác những thứ ở gần, kể cả con người ở gần khu vực vụ nổ. Trong video clip thấy nhiều xe đi trên đường vẫn đi lại bình thường, thậm chí có một số xe dừng lại để xem vụ nổ nữa..",0,0,0
-"Huyền thoại mà ăn nói thế chẳng khác nào dìm bùn mờ U thần thánh à , có bết bát quá thì cầu thủ tài năng mới không thèm đến vì sẽ chôn vùi sự nghiệp B) B) B)",-1,1,0
+"Huyền thoại mà ăn nói thế chẳng khác nào dìm bùn mờ U thần thánh à , có bết bát quá thì cầu thủ tài năng mới không thèm đến vì sẽ chôn vùi sự nghiệp B) B) B)",-1,0,0
 bố mẹ đẻ ra là cá sấu nhưng lại thích làm cá heo,-1,1,0
 "Giá đất mặt bằng chung cho qua cuối năm sau cũng không tăng nổi đâu bạn, giảm nhiều hay ít tùy vùng thôi. Lời khuyên cá nhân tôi thì chưa nên mua bây giờ, thay vì mua đất hoặc gưởi ngân hàng thì có thể dùng tiền đó đầu tư nghành mà vợ chồng bạn am hiểu, chứ vợ chồng bạn làm việc siêng năng dành dụm tích góp được 3 tỷ, nếu bạn mua đất ngay bây giờ thì cuối năm nếu mặt bằng chung giá đất xuống chỉ cần khoảng 10% thôi là bạn đã bị mất khoảng 300 triệu, nếu bạn để qua cuối năm hoặc năm sau mua sẽ không phải mất mấy tháng doanh thu làm ăn vất vả của vợ chồng bạn.Những người đang sỡ hữu đất bằng tiền của họ chứ không phải vay mượn thì chẳng ai bán thời điểm này đâu, trừ những người có chuyện đột xuất bắt buộc phải bán thì họ mới bán, mà thời điểm này người mua đất rất ít nên nếu bạn tìm được những người bán này hoặc những người đang vay mượn để đầu tư đất nhưng không trụ nổi nữa thì bạn có thể mặc cả nhiều hơn, thuận mua vừa bán, giá sẽ mềm hơn.",0,0,0
 Sống chung với lô cốt tiếp .,-1,0,0
@@ -366,7 +366,7 @@ Nhọc thực sự,-1,0,0
 Hài vcl,1,1,0
 Ai xin inb tôi đi,0,0,0
 Nguyễn Thanh xin link video bro ơi,0,0,0
-Thiết nghĩ nên tháo bài này xuống đi ad ah . Có những lúc chửi cần phải có tư duy 1 chút nhé .,-1,1,0
+Thiết nghĩ nên tháo bài này xuống đi ad ah . Có những lúc chửi cần phải có tư duy 1 chút nhé .,-1,0,0
 Người đâu mà đẹp quá,1,0,0
 "Giá xăng rẻ hơn vài ngàn đồng, thu nhập cá nhân thì thấp hơn vài ngàn đô, thiên đường XHCN",-1,0,0
 Ok thay`,1,0,0
@@ -400,7 +400,7 @@ Cũng do tham mà thành ra thâm,-1,0,0
 Mắc qá fai làm sao?,-1,0,0
 Nguyễn Hà Trang đtrai vl mà kaka,1,1,0
 Nhin chi đep hâp dân qua mui chi đep qua,1,0,0
-nó vẫn cứ nghĩ hút thuốc trên xe là chuyện bình thường,-1,1,0
+nó vẫn cứ nghĩ hút thuốc trên xe là chuyện bình thường,-1,0,0
 Spam,0,0,0
 Nghi vấn hối lộ nha,-1,0,0
 Mong đừng biến VN trở thành Ổ DỊCH!,-1,0,0
@@ -482,7 +482,7 @@ Cà khịa vãi nồi. Báo chí dạo này lắm phản động ah nha =)))),1,
 Very good,1,0,0
 Ở không cũng đc fan cứng,1,0,0
 Bác Trần Dần trả lời câu hỏi cuối rất hay....rất sáng suốt 👍,1,0,0
-"Tôi vê thâm my , thât su mà noi , sua qua nên không con gi la tu nhiên nua , ma co thê noi là qua xâu ! thâm my môi bi lôi nên gio , trên khuông mat hê ai nhin vào thi nhin cai môi truoc không phai vi dep mà vi thây no lo cai xâu ra, cung do và nhin không co gi la thâm my ca nên ban nào truoc khi muôn làm thâm my thi hay nhin nhung nguoi sua qua dà giong nhu nguoi trên dây rôi hay suy nghi nên làm hay không ? nêu trên mat co khuyêt diêm thi nên sua con thây minh cung không co gi qua tê thi nên dê tu nhiên thi se hay hon",-1,1,0
+"Tôi vê thâm my , thât su mà noi , sua qua nên không con gi la tu nhiên nua , ma co thê noi là qua xâu ! thâm my môi bi lôi nên gio , trên khuông mat hê ai nhin vào thi nhin cai môi truoc không phai vi dep mà vi thây no lo cai xâu ra, cung do và nhin không co gi la thâm my ca nên ban nào truoc khi muôn làm thâm my thi hay nhin nhung nguoi sua qua dà giong nhu nguoi trên dây rôi hay suy nghi nên làm hay không ? nêu trên mat co khuyêt diêm thi nên sua con thây minh cung không co gi qua tê thi nên dê tu nhiên thi se hay hon",-1,0,0
 Sao lại không đỗ xe gần vỉa hè mà lại hành hạ nhau vậy ? :V,-1,0,0
 Vì là chị đóng nên em miễn cưỡng đi đấy nhé,1,0,0
 thực ra lấy cũng dc nhưng ko nên pót lên mạng :v,-1,0,0
@@ -533,7 +533,7 @@ Hết nhanh như chớp h qua thách thức danh hài :)))) thầy ăn nhìu gi�
 Cho mình xin video vs bạn ơiii!!,1,0,0
 Mi Phạm giờ này chơi luôn nè,1,0,0
 Cô Chi đẹp quá à Đi đường quyền,1,0,0
-V im lặng đi. Than than cái j,-1,1,0
+V im lặng đi. Than than cái j,-1,0,0
 ma ba oi,0,0,1
 Mai Linh Nguyen đòi qua ngó này :)),1,0,0
 Ơ hay,0,0,0
@@ -555,7 +555,7 @@ Ok a trung,1,0,0
 @Phan ngô kệ cđm mày nói tao làm cái lồn j tao chỉ muốn nhắc nhẹ thôi tùy mày 🙂🙂,-1,2,0
 Em chao chi. Chuc chi luon xinh dep tre mai ko gia 🌹🌹🌹,1,0,0
 Chúc gia đình thầy ba 1 ngày 20.10. Và cuối tuần vui vẻ,1,0,0
-Cũng là do tự mình chuốc lấy.cà khịa người ta làm j giờ ngồi khóc,-1,1,0
+Cũng là do tự mình chuốc lấy.cà khịa người ta làm j giờ ngồi khóc,-1,0,0
 Thuyết phục,1,0,0
 Ah Minh Tuân là e ah BLV Anh Quân hay sao giống v,0,0,0
 Xàm quá có tiền mới tới đó được chứ làm ko,-1,0,0
@@ -583,8 +583,8 @@ máy ảnh đúng rõ nét :v,1,0,0
 gáy lên,0,0,0
 Trông thầy giống bê đê vcl :))),-1,2,0
 ?,0,0,1
-ý thức của chị Nhung còn thua điểm lí của em,-1,1,0
-Bố lạy mày. Những bài hồng nhan bạc phận sóng gió ko hay ah. Nên nhớ lúc sơn tùng ra bài hãy trao cho anh cùng với thời điểm sóng gió ra hỏi những người có gia đình thích bài gì nhất người chọn bài sóng gió nghe chứ ko bao giờ nghe bài sơn tùng.,-1,1,0
+ý thức của chị Nhung còn thua điểm lí của em,-1,0,0
+Bố lạy mày. Những bài hồng nhan bạc phận sóng gió ko hay ah. Nên nhớ lúc sơn tùng ra bài hãy trao cho anh cùng với thời điểm sóng gió ra hỏi những người có gia đình thích bài gì nhất người chọn bài sóng gió nghe chứ ko bao giờ nghe bài sơn tùng.,-1,0,0
 chẳng ra gì?,-1,0,0
 Hoa Pham khi nào gặp cướp nhớ làm theo chỉ dẫn trên này nhe mày. Đụng khơi khơi vô nó là ủ tờ như chơi đó ku :D,0,0,0
 Minh Ngô hoa đâu đẹp dữ à 🤣🤣,1,0,0
@@ -598,7 +598,7 @@ Bao Binh lương tôi từ 1tr6 lên 3-6-8-12 giờ lên 22 đây. Trong 6 năm 
 Như lol thầy ơi,-1,1,0
 Hà Chang. 😆😆,1,0,0
 Giáng sinh an lành 🤣🤣🤣,1,0,0
-Giàu thì ở nước ngoài mà chữa bệnh đi cứ cái gì cũng lôi về VN :))),-1,1,0
+Giàu thì ở nước ngoài mà chữa bệnh đi cứ cái gì cũng lôi về VN :))),-1,0,0
 Nguyễn Hoàng Sâm lồnnn Sâm,-1,2,0
 Huyền Phạm bố lạy m,0,0,0
 Ba sạo lồn thì có,-1,1,0
@@ -612,12 +612,12 @@ Phạm Văn Lộc đúng là giang hồ,0,0,0
 sao mọi người không ai đuổi tụi nó đi ?,-1,0,0
 Câu truyện nghe cũng rùng rợn phết mà sáng tác thành bài nhạc vui vđ.giờ mới biết,1,1,0
 ít nhiều cũng phải như tq tuy tôi đéo ưa TQ nhưng nó lại dám làm việc đó là chống tham nhũng và hiện tại rất là hiệu quá.kể cả cấp trên chỉ sau mỗi tập cận bình vẫn bị bắt giam vì tham nhũng.,0,1,0
-"Dịch bệnh sao mấy người cứ thích đi du hí, làm tâm điểm của ánh nhìn vậy!!",-1,1,0
+"Dịch bệnh sao mấy người cứ thích đi du hí, làm tâm điểm của ánh nhìn vậy!!",-1,0,0
 Chi ba vui ve chuc chi phe đep,1,0,0
 OK luon Minh Tuan oi .,1,0,0
 Chào mừng bạn đến với chuyên mục : Cười cùng Mixi 😂,1,0,0
 Thời gian là thứ vô cùng tàn nhẫn,-1,0,0
-Trong khi cả nước đang cố gắng chiến đấu với bệnh dịch thì 1 số ng vẫn ko chịu hiểu tầm quan trọng của sự việc.,-1,1,0
+Trong khi cả nước đang cố gắng chiến đấu với bệnh dịch thì 1 số ng vẫn ko chịu hiểu tầm quan trọng của sự việc.,-1,0,0
 Huỳnh Việt Trung ỉa xong là xanh sạch đẹp nha kk,1,0,0
 dễ thươngggg quá cô yêu ơiiiiiii ❤️🥰🥰🥰,1,0,0
 "Cường Nguyễn chuẩn, nghe k để lại ấn tượng gì :)))",-1,0,0
@@ -625,7 +625,7 @@ sao bảo người nhật sống rất khoa học,-1,0,0
 "Các bác nói vậy là ""gây tổn hại cho đất nước"" .... :v",-1,0,0
 E nói đùa đấy,0,0,0
 PhoBolsaTV helo đồng chí Trần dần,0,0,0
-Các idol thật là thông minh,-1,1,0
+Các idol thật là thông minh,-1,0,0
 "Phim ca ngợi Đảng, ca ngợi TQ.",0,0,0
 Chi ba bi ngao đa ha chi 3,-1,1,0
 Xin video đi bạn :v,0,0,0
@@ -668,13 +668,13 @@ Nguyễn Hiếu hàng 1 1 với fake là 1 chứ khác biệt lz gì đâu =))),
 tức tui á 😖,-1,0,0
 Hợp lí !! 🙂,1,0,0
 chán các e của a,-1,0,0
-"Mấy tụi DLV hay nói đu càng này nọ. Nảo chúng bị nhồi nên úng rồi. Thật ra đu càng đâu dể. Đu càng tốn cả triệu đô. Chỉ có ở tụi quan lớn tham nhủng. Chứ bò đỏ ấu trỉ umê bưng bô lương ba đồng làm gì có cửa đu, chỉ biết làm chốt thí..ha ha",-1,1,0
+"Mấy tụi DLV hay nói đu càng này nọ. Nảo chúng bị nhồi nên úng rồi. Thật ra đu càng đâu dể. Đu càng tốn cả triệu đô. Chỉ có ở tụi quan lớn tham nhủng. Chứ bò đỏ ấu trỉ umê bưng bô lương ba đồng làm gì có cửa đu, chỉ biết làm chốt thí..ha ha",-1,2,0
 Coi phim hậu cung nhiều quá sản luôn🤣🤣🤣🤣🤣🤣,1,0,0
 Đi tìm nó đánh chết mẹ nó luôn chị,-1,3,0
 HAi con ăn hại nhưng lại là quái thú nên ...,0,0,0
 Mẹ ơi . 1 tỷ như dẻ lau ... của chị . Từ bé tới giờ 100 triệu còn chưa cầm đc huống gì 1 tỷ . Người làm dư của kẻ làm chẳng ra 😁😁😁 khi nào mới đc như chị,1,0,0
 Hoai Tam Truong sời :)),1,0,0
-"Hết bê đồ, đóng đồ để ship, xong lên ngồi câu donate cho ông già, giờ ông già đi thái còn phải stream cast ao làng cuối tuần luôn, nhà này việc đéo gì cũng đến tay tao!!: Tùng Sói said",0,1,0
+"Hết bê đồ, đóng đồ để ship, xong lên ngồi câu donate cho ông già, giờ ông già đi thái còn phải stream cast ao làng cuối tuần luôn, nhà này việc đéo gì cũng đến tay tao!!: Tùng Sói said",-1,1,0
 Xin video bro,0,0,0
 cái đệch nó nhét tiền cho lòi họng rồi,-1,1,0
 Thằng trọc Mác -Lê- Mao. Núp bóng nhà Chùa chứ tu gì ... nó viết bằng chữ Tàu hoặc của Buồi Hiền thì không ai nói. Đây chính chữ Quốc ngữ nó đã học và nói nơi cửa miệng .,-1,1,0
@@ -714,7 +714,7 @@ Quy Dương học sinh lúc này,0,0,0
 Chơi hay nghỉ đây 😴,0,0,0
 tui cũng ko thích bài này lắm nhưng cũng ủng hộ đc 3 view rồi :v,1,0,0
 Đôi lúc trong lòng đầy tâm sự nhưng biết nói cùng ai và hiện tại cũng thế,-1,0,0
-"Thêm bọn ko não nữa, nó còn trùm hơn cả phụ nữ",-1,1,0
+"Thêm bọn ko não nữa, nó còn trùm hơn cả phụ nữ",-1,2,0
 Vũ Thanh Huyền Vậy bạn đã làm đc cái con cặc gì lớn lao để thể hiện tình yêu nước của bạn chưa?,-1,1,0
 Nguyễn Hiếu yz700 😌,0,0,0
 Ba chào các chú di con🤣🤣🤣,1,0,0
@@ -832,7 +832,7 @@ thầy nhớ mang vinh quang về - nghệ sĩ hài hước clm,1,1,0
 Ae sống chậm thế :),0,0,0
 "chỉ có ở vn, thiếu vật chứng thì... đi lượm",-1,0,0
 Đr bạn,1,0,0
-Dương Tiến Đạt đến con người vs con người bạn con phân biệt vùng miền. Ấy thế mà đi thương con chó.,-1,1,0
+Dương Tiến Đạt đến con người vs con người bạn con phân biệt vùng miền. Ấy thế mà đi thương con chó.,-1,0,0
 Nguyễn Tùng đầu trọc là k có xinh đâu,-1,1,0
 "Đây là Táo Liên Quân, còn năm nay sẽ có Táo Quân vi hành diễn bên CH Séc, ở VN sẽ thay bằng chương trình khác cũng do Đạo diễn Đỗ Thanh Hải làm.",0,0,0
 May quá mình có fan cứng nhưng kb có đc ngẫu nhiên k :)),1,0,0
@@ -853,9 +853,9 @@ Trông chán không😢,-1,0,0
 Đéo thể tha thứ được 🙅 càng nói càng xạo quần,-1,1,0
 An xuyên nè,0,0,0
 Bomman chấp nhận thua r,-1,0,0
-"Ông ý là quan nên đc lính mời nhậu nhiều chẳng mất tiền nhậu bao giờ sao biết 2,3 bữa đc",-1,1,0
+"Ông ý là quan nên đc lính mời nhậu nhiều chẳng mất tiền nhậu bao giờ sao biết 2,3 bữa đc",-1,0,0
 Linh oi mày đừng về cần thơ nữa,-1,1,0
-"chi chui nhu vay con cai chi nghe,toi kg biet chi se day con nhu the nao?Chang le cac chau cung se noi got nhu me.",-1,1,0
+"chi chui nhu vay con cai chi nghe,toi kg biet chi se day con nhu the nao?Chang le cac chau cung se noi got nhu me.",-1,0,0
 Huỳnh Châu chết Thầy tui,-1,0,0
 Kiên ăn đc hải sản tưởng hay 😏,-1,1,0
 Giờ này mí thấy đổi ảnh. Trend hồi sáng tới giờ,0,0,0
@@ -870,7 +870,7 @@ Vũ Đạt rất chi là tốt =((,-1,0,0
 Abe đang ở HN nha ae 😂😂,0,0,0
 Khổng Mỹ Duyên nó lại hợp li vl🙂,1,0,0
 sức hút,1,0,0
-C dep gai ma noi bay wa ah,-1,1,0
+C dep gai ma noi bay wa ah,1,0,0
 Đcm cái loại giả đạo đức khi ko được giáo dục,-1,2,0
 Xin phép hỏi có phải bác Trần dân sinh 1926 nếu đúng bác có được sức khỏe quá tốt,1,0,0
 Thương Hàn Quốc,1,0,0
@@ -925,7 +925,7 @@ Nhanh chậm cmm :)),-1,2,0
 :))) đó là lúc mà con tim tao không còn cảm giác gì với cs này,0,0,0
 Nói thế cho nó vầng :))),0,0,0
 Vũ Hậu ui khỏi ăn luôn vì nhìn em k biết con nào là con nào :)),1,0,0
-Đéo nào đoạn đánh răng tởm vl mà lâu vc😂,1,1,0
+Đéo nào đoạn đánh răng tởm vl mà lâu vc😂,-1,1,0
 Quỳnh Anh k làm luật sư ở đoá à =)),0,0,0
 sao phải khổ gj con corona nay. do thăng trung cộng no gây ra oán hận nó qa,-1,1,0
 uh,0,0,0
@@ -991,7 +991,7 @@ Rủ cả team làm vlog ở cùng nhau 1 ngày không chửi thề đi anh ơi 
 Truy cập vào web của các bác lập ra để check in và kiếm gái :3,0,0,0
 "Ơ gì war z , em nói zui thui mà @@",0,0,0
 Quốc Vương thì tui thấy sao nói vậy mà vương?,0,0,0
-Huyền Mun nhưng hỏi vô lý😅,-1,1,0
+Huyền Mun nhưng hỏi vô lý😅,-1,0,0
 Cực kì thuyết phục! 😀,1,0,0
 Sống chậm lại để yêu thương nào các bạn 😪😪😪,1,0,0
 Bạo hành gì mà thầy toàn cười ko vậy =)),1,0,0
@@ -1004,7 +1004,7 @@ mai thúy,0,0,0
 Chậm clmm,-1,1,0
 thầy book giáo án mới cho e:(( a be cứu e vs,0,0,0
 Nhìn mặt tao có giống đang quan tâm mâý con cua không,-1,1,0
-Bớt hạnh họe xem nào,-1,1,0
+Bớt hạnh họe xem nào,-1,0,0
 "Mr Trần Dân. Quá hay ""ông đúng là co vấn đặc biệt canh tay phải của tt Trump ""xem rất vui.",1,0,0
 Ngầu men,1,0,0
 Văn Trường dell nhịn đc cười 🤣,1,0,0
@@ -1051,7 +1051,7 @@ ngươi tinh trên chiên trân . mai đinh gi đây,0,0,1
 Phía sau 1 người đàn ông thất bại là 1 người đàn bà xui dại,-1,0,0
 Ngu na noi tren troi duoi dat k,-1,1,0
 Thế ông ad có biết một loạt phóng tên lửa (loại tên lửa hệ Ca-chiu-sa) để dọn bãi tốn bn xiền ko? Một loạt của một xe có khi đã cỡ trăm triệu (hay cả tỷ).,0,0,0
-Nhờ chị Nhung nên VN đã bước vào trận 2 :)),-1,1,0
+Nhờ chị Nhung nên VN đã bước vào trận 2 :)),-1,0,0
 Bút này chắc ko bao giờ hết mực =))))))))),1,0,0
 Được của ló thank thầy,1,0,0
 Thầy ơi bọn này khịa nè :)) Mà cho em xin tên YT mới ạ.,1,0,0
@@ -1108,7 +1108,7 @@ Uyen Le loại có trứng ah tầm hàng trẹo thui,0,0,0
 Nhân viên bưg nước mà xạo xạo,-1,1,0
 Đôi khi quảng cáo với cái đầu ngắn nên bị tổ trác. Thay vì hòa đồng thì cứ thích tỏ vẻ bố thiên hạ. Chán ông vin fet,-1,1,0
 xịn xò như này k thầy 🤔,1,0,0
-"Con này nói chuyện thì biết 0 có học ,bit đường sống của nó là đúng, đó cũng là thay trời hành đạo",-1,1,0
+"Con này nói chuyện thì biết 0 có học ,bit đường sống của nó là đúng, đó cũng là thay trời hành đạo",-1,2,0
 BaroiBeo X tieu tieu,0,0,0
 0917043577 vinaphone nha cô ba,0,0,0
 Hình như có râu,0,0,0
@@ -1142,7 +1142,7 @@ Cô dễ thương ghê,1,0,0
 Game cu lon nay=))),-1,1,0
 Sống nhanh lên ae à,0,0,0
 Long Ka,0,0,0
-Phạm Trang nếu đã chưa từng có gì với nhau sao phải hủy theo dõi :),-1,1,0
+Phạm Trang nếu đã chưa từng có gì với nhau sao phải hủy theo dõi :),-1,0,0
 Nghe rất hợp lý và rất thuyết phục,1,0,0
 Thầy đang nghĩ về cô em xinh tươi này ...,1,0,0
 Dù trong phim hay ngoài đời anh vẫn đẹp trai vcl,1,0,0
@@ -1196,9 +1196,9 @@ Nguyễn Hoàng Sâm nôn link ra,1,0,0
 Nhiên An chủ động đi khám nhưng ko mất phí,0,0,0
 Chi yêu đẹp nhìn ma mê hà,1,0,0
 "Long Thành làm tới thôi, điều kiện cần và đủ đều có cả rồi",1,0,0
-Nghe giọng mà n*ng hết sức :))))),1,1,0
+Nghe giọng mà n*ng hết sức :))))),1,0,0
 Mới hả mọi người,0,0,0
-"Nói chung khựa đã thất bại với HK nhưng nhất quyết khog buông tha , và dân HK phãi lấy máu và nước mắt đễ đỗi lấy tự do và nhân quyền",-1,1,0
+"Nói chung khựa đã thất bại với HK nhưng nhất quyết khog buông tha , và dân HK phãi lấy máu và nước mắt đễ đỗi lấy tự do và nhân quyền",-1,0,0
 Nhạc bản quyền thấy mẹ 🙂,-1,1,0
 Nguyễn Minh Hiếu thầy t :))),1,0,0
 Tập này đáng xem nhất,1,0,0
